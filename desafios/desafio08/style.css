@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cinza {
+    background-color: gray;
+}
+
+.verde {
+    background-color: rgb(132, 233, 137);
+    color: green;
+}
+
+.amarela {
+    background-color: rgb(161, 161, 114);
+    color: yellow;
+}
+
+
